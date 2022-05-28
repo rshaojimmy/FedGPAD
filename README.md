@@ -13,7 +13,7 @@ In the proposed framework, each data owner (referred to as data centers) locally
 
 # Setup
 
-* Prerequisites: Python3.6, pytorch=1.2, Numpy, libmr
+* Prerequisites: Python3.6, pytorch=1.2
 
 * The source code folders:
 
