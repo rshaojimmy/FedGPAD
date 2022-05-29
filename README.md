@@ -35,7 +35,7 @@ It will generate a .h5 file that contains the score for each frame. Then, we use
 # Acknowledge
 Please kindly cite this paper in your publications if it helps your research:
 ```
-@article{shao2021federated,
+@article{shao2022federated,
   title={Federated Generalized Face Presentation Attack Detection},
   author={Shao, Rui and Perera, Pramuditha and Yuen, Pong C and Patel, Vishal M},
   journal={IEEE Transactions on Neural Networks and Learning Systems (TNNLS)},
