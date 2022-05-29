@@ -42,6 +42,13 @@ Please kindly cite this paper in your publications if it helps your research:
   year={2022},
   organization={IEEE}
 }
+@inproceedings{shao2021federated,
+  title={Federated Test-Time Adaptive Face Presentation Attack Detection with Dual-Phase Privacy Preservation},
+  author={Shao, Rui and Zhang, Bochao and Yuen, Pong C and Patel, Vishal M},
+  booktitle={2021 16th IEEE International Conference on Automatic Face and Gesture Recognition (FG)},
+  year={2021},
+  organization={IEEE}
+}
 ```
 
 Contact: rshaojimmy@gmail.com
